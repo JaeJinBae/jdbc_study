@@ -16,6 +16,7 @@
 				<property name="ssl.require" value="false"/>
 			</network-handler>
 		</connection>
+		<filters/>
 	</data-source>
 	<data-source id="mysql5-15ec0d0fd18-ea0599125de0e75" provider="mysql" driver="mysql5" name="MySQL - sampledb(user_sampledb)" save-password="true" show-system-objects="true" read-only="false">
 		<connection host="localhost" port="3306" server="" database="sampledb" url="jdbc:mysql://localhost:3306/sampledb" user="user_sampledb" password="AQsJNFNMSwJl8w==" home="C:\Program Files\MySQL\MySQL Server 5.7" type="dev">
