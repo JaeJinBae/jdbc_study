@@ -19,7 +19,7 @@ public class TestMain {
 		 * dbCon.connClose();
 		 */
 		DepartmentDao dao =DepartmentDao.getInstance();
-		
+//		showDepartmentList(dao);
 		
 		//insert
 		/*Department dept=new Department(5, "¸¶ÄÉÆÃ", 10);

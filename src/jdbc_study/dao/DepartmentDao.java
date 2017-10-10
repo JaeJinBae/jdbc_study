@@ -55,7 +55,7 @@ public class DepartmentDao {
 
 	public Department selectDepartmentByNo(Department searchDept) {
 		sql = "select * from department where deptno=?";
-		
+
 		Department department = null;
 		return department;
 	}
